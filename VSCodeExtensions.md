@@ -1,4 +1,4 @@
-# VScode extensions to make your life easier:
+# VScode extensions to make your life easier
 
 - Beautify will help you format your HTML, CSS, Sass and JS files
 - Stylelint will help you write better CSS
