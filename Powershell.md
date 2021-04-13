@@ -3,15 +3,15 @@
 ## Help
 
 * Get-Help or Help
-* Get-Help something -Full          # Show the complete help information
-* Get-Help something -Online        # Show the online version of the help
-* Get-Help something -ShowWindow    # Show the help in a external Window
+* Get-Help something -Full            # Show the complete help information
+* Get-Help something -Online          # Show the online version of the help
+* Get-Help something -ShowWindow      # Show the help in a external Window
 * Update-Help -Force
 
 ## Helpful
 
 * Get-Module -ListAvailable           # Show the available module that can be imported  
-* cmdlet | Get-Member (or gm)       # Show the cmdlet's properties, methods etc.  
+* cmdlet | Get-Member (or gm)         # Show the cmdlet's properties, methods etc.  
 
 
 ## Define
