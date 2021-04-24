@@ -2,8 +2,10 @@
 
 ## VSCode Shortcuts
 
-- CTRL+K+C = Comment selected
-- CTRL+K+U = Uncomment selected
+- CTRL+K + C  : Comment selected
+- CTRL+K + U  : Uncomment selected
+- CTRL+K + V  : Preview Markdown in split screen
+- ALT+SHIFT+F : Format document
 
 ## VSCode Extensions
 
