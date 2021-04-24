@@ -1,4 +1,11 @@
-# VScode extensions to make your life easier
+# VSCode tips & tricks
+
+## VSCode Shortcuts
+
+- CTRL+K+C = Comment selected
+- CTRL+K+U = Uncomment selected
+
+## VSCode Extensions
 
 - Beautify will help you format your HTML, CSS, Sass and JS files
 - Stylelint will help you write better CSS
