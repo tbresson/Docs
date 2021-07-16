@@ -30,3 +30,20 @@
   - a dot (.) to add all files in the directory, e.g. "git add ."
 - Enter "git commit -m "message"" to commit your changes
 - Enter "git push" to push/upload your local content to GitHub
+
+## RESTORE/REVERT CHANGES
+
+- Enter "git restore X" where X is either:
+  - a filename of a file you've created, e.g. "git restore readme.md" or
+  - a dot (.) to add all files in the directory, e.g. "git restore ."
+
+## BRANCHES
+
+- Enter "git branch X" to create a branch named X
+- Enter "git checkout X" to switch to the branch named X
+- Create a branch and check it out at the same time with "git checkout -b X" where X is the name of the branch
+- Enter "git checkout master" (or main) to return to the master/main branch
+- Stage and commit until complete
+- Enter "git push origin X" to push/upload your local branch X to GitHub
+
+
