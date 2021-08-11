@@ -1,8 +1,5 @@
 # GitHub
 
-- Create a repository and clone it to your computer.
-- Stage and commit your changes.
-
 ## PRE-REQ
 
 - Install Git
@@ -45,5 +42,3 @@
 - Enter "git checkout master" (or main) to return to the master/main branch
 - Stage and commit until complete
 - Enter "git push origin X" to push/upload your local branch X to GitHub
-
-
