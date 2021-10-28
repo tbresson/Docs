@@ -34,6 +34,7 @@
     -ExpandProperty                 # Selects the value of the property instead of the property (as an object)
     -ScriptBlock                    # Creates a block of code that can be used as a single unit, e.g. Invoke-Command -ScriptBlock { Get-Process }
     -Split X                        # Returns each value from a separated list, e.g. $env:psmodulepath -Split ";"
+    -Properties                     # Get more than the default parameters, e.g. Get-ADUser -Filter {SamAccountName -Eq "TBR"} -Properties *
 
 ## Operators
 
