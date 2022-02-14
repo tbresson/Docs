@@ -101,6 +101,8 @@
 
 ## Functions
 
+    Return                          # Exits the current scope, which can be a function, script, or script block
+
     Function Print-String {         # Basic function
         Param(
             [string]$String
