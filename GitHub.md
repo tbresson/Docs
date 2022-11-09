@@ -47,3 +47,5 @@
 - Enter "git checkout master" (or main) to return to the master/main branch
 - Enter "git merge X" to merge the branch X with master (or main)
 - Enter "git branch -d X" to delete branch X
+- Enter "git push" to push the updates to main
+- Enter "git push origin -d X" to delete branch X from origin/remote
