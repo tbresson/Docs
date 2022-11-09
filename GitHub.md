@@ -38,7 +38,12 @@
 
 - Enter "git branch X" to create a branch named X
 - Enter "git checkout X" to switch to the branch named X
-- Create a branch and check it out at the same time with "git checkout -b X" where X is the name of the branch
-- Enter "git checkout master" (or main) to return to the master/main branch
+- Or enter "git checkout -b X" to create a branch and check it out at the same time
 - Stage and commit until complete
 - Enter "git push origin X" to push/upload your local branch X to GitHub
+
+## MERGE
+
+- Enter "git checkout master" (or main) to return to the master/main branch
+- Enter "git merge X" to merge the branch X with master (or main)
+- Enter "git branch -d X" to delete branch X
