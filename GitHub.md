@@ -34,6 +34,10 @@
   - a filename of a file you've created, e.g. "git restore readme.md" or
   - a dot (.) to add all files in the directory, e.g. "git restore ."
 
+## UNDO LOCAL COMMIT & STAGING
+
+- Enter "git reset HEAD^"
+
 ## BRANCHES
 
 - Enter "git branch X" to create a branch named X
