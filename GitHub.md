@@ -45,6 +45,7 @@
 - Or enter "git checkout -b X" to create a branch and check it out at the same time
 - Stage and commit until complete
 - Enter "git push origin X" to push/upload your local branch X to GitHub
+- Enter "git push origin -d X" to delete branch X from origin/remote
 
 ## MERGE
 
